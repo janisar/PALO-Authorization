@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PALO.AuthorizationFilter", "PALO.AuthorizationFilter\PALO.AuthorizationFilter.csproj", "{3087B604-EAD5-41D8-8BB8-A41CB142B63B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PALO.AuthorizationFilter.Tests", "PALO.AuthorizationFilter.Tests\PALO.AuthorizationFilter.Tests.csproj", "{484E9E56-8AFC-4FE1-8B71-8636BC50C83B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3087B604-EAD5-41D8-8BB8-A41CB142B63B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3087B604-EAD5-41D8-8BB8-A41CB142B63B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3087B604-EAD5-41D8-8BB8-A41CB142B63B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3087B604-EAD5-41D8-8BB8-A41CB142B63B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{484E9E56-8AFC-4FE1-8B71-8636BC50C83B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{484E9E56-8AFC-4FE1-8B71-8636BC50C83B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{484E9E56-8AFC-4FE1-8B71-8636BC50C83B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{484E9E56-8AFC-4FE1-8B71-8636BC50C83B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\ny37813\RiderProjects\PALO.AuthorizationFilter\PALO.AuthorizationFilter\bin\Debug\netcoreapp2.0\PALO.AuthorizationFilter.deps.json
+C:\Users\ny37813\RiderProjects\PALO.AuthorizationFilter\PALO.AuthorizationFilter\bin\Debug\netcoreapp2.0\PALO.AuthorizationFilter.dll
+C:\Users\ny37813\RiderProjects\PALO.AuthorizationFilter\PALO.AuthorizationFilter\bin\Debug\netcoreapp2.0\PALO.AuthorizationFilter.pdb
+C:\Users\ny37813\RiderProjects\PALO.AuthorizationFilter\PALO.AuthorizationFilter\obj\Debug\netcoreapp2.0\PALO.AuthorizationFilter.csprojAssemblyReference.cache
+C:\Users\ny37813\RiderProjects\PALO.AuthorizationFilter\PALO.AuthorizationFilter\obj\Debug\netcoreapp2.0\PALO.AuthorizationFilter.csproj.CoreCompileInputs.cache
+C:\Users\ny37813\RiderProjects\PALO.AuthorizationFilter\PALO.AuthorizationFilter\obj\Debug\netcoreapp2.0\PALO.AuthorizationFilter.AssemblyInfoInputs.cache
+C:\Users\ny37813\RiderProjects\PALO.AuthorizationFilter\PALO.AuthorizationFilter\obj\Debug\netcoreapp2.0\PALO.AuthorizationFilter.AssemblyInfo.cs
+C:\Users\ny37813\RiderProjects\PALO.AuthorizationFilter\PALO.AuthorizationFilter\obj\Debug\netcoreapp2.0\PALO.AuthorizationFilter.dll
+C:\Users\ny37813\RiderProjects\PALO.AuthorizationFilter\PALO.AuthorizationFilter\obj\Debug\netcoreapp2.0\PALO.AuthorizationFilter.pdb
