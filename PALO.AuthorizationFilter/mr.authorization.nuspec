@@ -17,7 +17,7 @@
         <owners>ardel</owners>
 
         <!-- Project URL provides a link for the gallery -->
-        <projectUrl>https://github.com/janisar/AuthorizationFilter</projectUrl>
+        <projectUrl>https://github.com/janisar/PALO-Authorization</projectUrl>
 
         <!-- 
             If true, this value prompts the user to accept the license when
