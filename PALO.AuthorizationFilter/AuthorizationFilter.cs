@@ -1,4 +1,5 @@
-﻿using System.Security.Claims;
+﻿using System;
+using System.Security.Claims;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
 using PALO.AuthorizationFilter.Utils;
@@ -22,12 +23,12 @@ namespace PALO.AuthorizationFilter
             }
             
             var token = context.HttpContext.Request.Headers["Authorization"];
+            var claims = _claim.Value.Split(",");
 
             if (!string.IsNullOrWhiteSpace(token) && TokenUtil.ValidateToken(token))
             {
                 var role = TokenUtil.GetRoleFromToken(token);
-
-                if (_claim?.Value != null && !role.Equals(_claim.Value))
+                if (claims.Length == 0 || Array.IndexOf(claims, role) == -1)
                 {
                     context.Result = new ForbidResult();
                 }
