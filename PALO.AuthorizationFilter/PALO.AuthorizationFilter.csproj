@@ -10,7 +10,7 @@
       <PackageReference Include="Microsoft.AspNet.WebApi.Core" Version="5.2.7" />
       <PackageReference Include="Microsoft.AspNetCore.Mvc.Abstractions" Version="2.2.0" />
       <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
-      <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.4.0" />
+      <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.8.0" />
     </ItemGroup>
 
 </Project>
